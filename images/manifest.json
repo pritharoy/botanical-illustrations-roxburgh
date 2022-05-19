@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1928,
+    "id" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img6991L_bougainvillea/canvas/",
+    "label" : {
+      "none" : [ "Img6991L_bougainvillea" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img6991L_bougainvillea/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img6991L_bougainvillea/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 61,
+              "height" : 94
+            }, {
+              "width" : 121,
+              "height" : 188
+            }, {
+              "width" : 241,
+              "height" : 375
+            }, {
+              "width" : 482,
+              "height" : 750
+            }, {
+              "width" : 964,
+              "height" : 1500
+            }, {
+              "width" : 1928,
+              "height" : 3000
+            } ],
+            "profile" : "level0",
+            "width" : 1928,
+            "id" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img6991L_bougainvillea",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1928,
+          "id" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img6991L_bougainvillea/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 3000
+        },
+        "target" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img6991L_bougainvillea/canvas/"
+      } ]
+    } ],
+    "height" : 3000
+  }, {
     "width" : 2076,
     "id" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img6184L_amaltas/canvas/",
     "label" : {
