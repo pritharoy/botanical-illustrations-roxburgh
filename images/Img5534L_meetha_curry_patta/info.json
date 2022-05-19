@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 65,
+    "height" : 94
+  }, {
+    "width" : 130,
+    "height" : 188
+  }, {
+    "width" : 260,
+    "height" : 375
+  }, {
+    "width" : 519,
+    "height" : 750
+  }, {
+    "width" : 1038,
+    "height" : 1500
+  }, {
+    "width" : 2076,
+    "height" : 3000
+  } ],
+  "profile" : "level0",
+  "width" : 2076,
+  "id" : "https://pritharoy.github.io/botanical-illustrations-roxburgh/images/Img5534L_meetha_curry_patta",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3000
+}
